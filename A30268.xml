@@ -1,0 +1,491 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christians earnest expectation and longing for the glorious appearing of the great God and our saviour Jesus Christ set forth in a discourse occasioned by the decease of that excellent Christian and minister of Christ Mr. Noah Webb ... / by Daniel Burgess.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30268</idno>
+            <idno type="STC">Wing B5693</idno>
+            <idno type="STC">ESTC R25737</idno>
+            <idno type="EEBO-CITATION">09097607</idno>
+            <idno type="OCLC">ocm 09097607</idno>
+            <idno type="VID">42434</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30268)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42434)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1278:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christians earnest expectation and longing for the glorious appearing of the great God and our saviour Jesus Christ set forth in a discourse occasioned by the decease of that excellent Christian and minister of Christ Mr. Noah Webb ... / by Daniel Burgess.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>[8], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for O.C.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Apocharadochia ch euchē hē chrisianichi.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Webb, Noah, d. 1675.</term>
+               <term>Kingdom of God.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42434:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Chriſtians earneſt Expectation an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Longing for the glorious Appearing o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the great God and our Saviour Jeſus Chriſt.</p>
+            <p>Set forth in a DISCOURSE Occaſioned by the Deceaſe of that Ex<g ref="char:EOLhyphen"/>cellent Chriſtian and Miniſter of Chriſt.</p>
+            <p>Mr. <hi>NOAH WEBB,</hi> Lately of <hi>Sandhurſt,</hi> in the County of <hi>Berks.</hi>
+            </p>
+            <p>By <hi>Daniel Burgeſs,</hi> Miniſter of the Goſpel.</p>
+            <q>The Prophets, do they live for ever? <bibl>
+                  <hi>Zech. 1.5.</hi>
+               </bibl>
+            </q>
+            <q>I have fought a good fight, I have finiſhed my courſe, I have kept the Faith.</q>
+            <q>Henceforth there is laid up for me a Crown of Righteouſneſs, which the Lord, the righteous Judg ſhall give me, at that day; and not to me only, but unto them alſo that love his Appearing, <bibl>
+                  <hi>2 Tim. 4.7, 8.</hi>
+               </bibl>
+            </q>
+            <p>Printed for <hi>O.C.</hi> 1675.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42434:2" rendition="simple:additions"/>
+            <pb facs="tcp:42434:2"/>
+            <head>To the Lady <hi>Martha Mer<g ref="char:EOLhyphen"/>ryn,</hi> Wife of the right Worſhipful Sr. <hi>Audley Merryn;</hi> Mrs. <hi>Heſter Whitfield,</hi> Wife of [my Honoured Uncle] <hi>Hen<g ref="char:EOLhyphen"/>ry Whitfield</hi> Eſq; and Mrs. <hi>Elizabeth Briſcoe,</hi> my juſtly Honoured Dear Mother-in-law.</head>
+            <opener>
+               <salute>My Excellent, and very Dear Friends.</salute>
+            </opener>
+            <p>OTher Readers [probably] will miſtake: But, I pray do not you. Here's no <hi>Epiſtle Dedi<g ref="char:EOLhyphen"/>catory:</hi> I prefix your <hi>Names</hi> here for nothing elſe, but to make me place to
+<pb facs="tcp:42434:3"/>ſhew you, that I Forget you not, nor my great Obligations to you. I and mine, do commemorate often in <hi>England,</hi> your goodneſs to us in <hi>Ireland.</hi> And being [you ſee on what Occaſion] now pre<g ref="char:EOLhyphen"/>vail'd with, to appear in publick, it li<g ref="char:EOLhyphen"/>ked me thus to have our <hi>Gratitude</hi> ap<g ref="char:EOLhyphen"/>pear too. You will look on the following Pages, for the <hi>Author's</hi> ſake: And you will prize them for the <hi>Subjects</hi> ſake; I beſeech you ſet your ſelves to the Duty they commend, for <hi>God and your Souls</hi> ſake: I believe I ſhall never ſee you more, till <hi>Jeſus</hi> comes, Oh! may we then meet him, and each other with joy! And in the mean time, all our Days, keep pro<g ref="char:EOLhyphen"/>viding for that great, and [if not pro<g ref="char:EOLhyphen"/>vided for] Terrible one. <hi>Tis Death in your Thoughts, muſt put Life into your Actions,</hi> ſaid Bleſſed <hi>Vines.</hi> And <hi>Mr. Baxter</hi> himſelf could ſay of Heaven, [<hi>in Vines</hi> his Elegy]</p>
+            <q>
+               <l>Sin doth not only keep me thence,</l>
+               <l>But makes me loth to go from hence.</l>
+            </q>
+            <p>Look well to your ſelves, My Invalua<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:42434:3"/>dear Friends! You have ſundry excel<g ref="char:EOLhyphen"/>ent Monitors by you; Singularly [my thrice deareſt] Dr. T. H. whoſe life and labours the Lord continue to <hi>Dub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in.</hi> I commend you, and all your dear<g ref="char:EOLhyphen"/>eſt Ones, to divine Tuition and Grace; it's moſt incorruptly that I profeſs my ſelf,</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt Affectionate Remembrancer to the Lord,</hi> Dan. Burgeſs.</signed>
+               <dateline>
+                  <hi>From my Houſe in</hi> Bayden <hi>neer</hi> Malbrough, Wilts, <date>
+                     <hi>Aug. 30. 1675.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:42434:4" rendition="simple:additions"/>
+            <pb facs="tcp:42434:4"/>
+            <head>
+               <g ref="char:V">Ʋ</g>pon the much Lamented Deceaſe of <hi>Mr. Noah Webb,</hi> who Died <hi>Aug. 14.</hi> in the <hi>42<hi rend="sup">d</hi>.</hi> year of his Age, <hi>A. D. 1675.</hi>
+            </head>
+            <opener>Bleſt God!</opener>
+            <lg>
+               <l>OH Turn [the glorious lamp of Heaven] the <hi>Sun</hi>
+               </l>
+               <l>To darkeſt <hi>Darkneſs!</hi> Let his Courſe be done!</l>
+               <l>Nor let [the Queen of Heav'n] the <hi>Moon</hi> take 's Light,</l>
+               <l>And with it <hi>colour</hi> any future Night!</l>
+               <l>Black thou <hi>the Milkie way!</hi> Blow out the <hi>Stars,</hi>
+               </l>
+               <l>No more to <hi>twinkle</hi> ſigns of Peace, of Wars!</l>
+               <l>Our <hi>Waters</hi> turn to <hi>Blood!</hi> to <hi>Lice</hi> our <hi>Duſt!</hi>
+               </l>
+               <l>The <hi>World</hi> to <hi>Aſhes,</hi> if 't bee thy righteous Luſt!</l>
+               <l>For <hi>Pitie's</hi> ſake thus <hi>Curſe</hi> us, Righteous Lord,</l>
+               <l>Rather than Take the <hi>Teachers</hi> of thy Word,</l>
+               <l>From thy afflicted <hi>Church! Church,</hi> dare I ſay?</l>
+               <l>'Tis <hi>Hell,</hi> not <hi>Church,</hi> without ſuch <hi>Lights</hi> as they!</l>
+               <l>Much rather had we, <hi>Jeſus</hi> ſtrait ſhould come,</l>
+               <l>Then let the World, <hi>more</hi> Aggravate their Doom!</l>
+               <l>Did there ten thouſand Worlds to ruin fall,</l>
+               <l>One <hi>God</hi> could <hi>Save,</hi> one <hi>Chriſt Redeem</hi> them all,</l>
+               <l>(Well ſang <hi>Orinda;) Grace</hi> [who doubts?] <hi>divine</hi>
+               </l>
+               <l>One <hi>Spirit</hi> could infufe, and all <hi>Refine.</hi>
+               </l>
+               <l>Thou could'ſt, <hi>Oh Bleſſed Trinity,</hi> without</l>
+               <l>One of the <hi>Miniſters</hi> thou ſendeſt out,</l>
+               <l>
+                  <hi>Convert, Build</hi> up, <hi>Confirm,</hi> and make t' <hi>Increaſe</hi>
+               </l>
+               <l>Thy <hi>Church,</hi> in Faith, in Purity, and Peace!</l>
+               <pb facs="tcp:42434:5"/>
+               <l>But oh! thy <hi>Will</hi>'s thy <hi>Law! Teachers,</hi> we know,</l>
+               <l>Muſt be <hi>Co-workers;</hi> 'cauſe thy <hi>Will</hi> is ſo!</l>
+               <l>And ſeeing, <hi>Faith by Hearing them muſt come,</hi>
+               </l>
+               <l>The day of their <hi>Loſs,</hi> muſt b' a day of <hi>Doom!</hi>
+               </l>
+               <l>Thrice direful <hi>Doom!</hi> The World may better ſpar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>The <hi>Elements,</hi>
+                  <note place="margin">Mat. 5.13, 14. Rev. 2.1. Heb. 13.7. 2 Cor. 5.20. 1 Cor. 4.1. 1 Cor. 3.9. 1 Cor. 4.15. Joh. 21.15. 1 Cor. 3.10. Heb. 13.17. and Iſai. 52.8. 2 Kings 13, 14.</note> than the <hi>Church</hi> ſpare them, that a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Her <hi>Lights, Salt, Angels, Rulers, Legates;</hi> and</l>
+               <l>
+                  <hi>Stewards</hi> of thy both Heav'nly houſe and land!</l>
+               <l>
+                  <hi>Husbandmen, Fathers, Shepheards, Builders,</hi> and</l>
+               <l>The <hi>Watch,</hi> which for thy Flocks, <hi>Oh Jeſu,</hi> ſtand!</l>
+               <l>
+                  <hi>Horſemen</hi> and <hi>Chariots</hi> of thy <hi>Iſrael,</hi>
+               </l>
+               <l>In whom her <hi>Safeties</hi> and her <hi>Glories</hi> dwell.</l>
+               <l>Oh then allow us, <hi>Lord,</hi> to Sigh and Groan,</l>
+               <l>Under the Loſs of this <hi>Excelling One!</hi>
+               </l>
+               <l>Smite, ſmite the <hi>Rocks</hi> too, that inſenſate be</l>
+               <l>Of its portending <hi>great</hi> Calamity!</l>
+               <l>The ſtop of <hi>Noah</hi>'s preaching did of yore</l>
+               <l>Portend a Judgment, th' <hi>in-dwelt</hi> World o're!</l>
+               <l>Thy ſnatching our deer <hi>No'h</hi> into thine <hi>Ark,</hi>
+               </l>
+               <l>Affrights us all; and chiefly ſuch as mark,</l>
+               <l>How faſt our <hi>Alleines, Janeways,</hi> and our <hi>Blakes,</hi>
+               </l>
+               <l>Our <hi>Barrets</hi> and our <hi>Webbs,</hi> thy Hand up takes:</l>
+               <l>And do obſerve, what <hi>Sin</hi> and <hi>Strife</hi> be brewing,</l>
+               <l>For <hi>England's, Europe</hi>'s, yea the <hi>World</hi>'s undoing.</l>
+               <l>Next unto <hi>Sin,</hi> Oh God! [that's <hi>Strife</hi> with thee,]</l>
+               <l>Our <hi>mutual Strifes</hi> ſpeak imminent Miſery;</l>
+               <l>They both, in <hi>Gath</hi> and <hi>Aſcalon</hi> are known!</l>
+               <l>One hath the bitter laſt thus ſweetly ſhewn.</l>
+            </lg>
+            <lg>
+               <l>The Croſs muſt now againſt the Croſs be ſpread,
+<note place="margin">
+                     <hi>Beaumont,</hi> in <hi>Pſych.</hi>
+                  </note>
+               </l>
+               <l>(Bluſh, oh ye Heavens at this!) and they who are</l>
+               <l>Under the King of Peace all Marſhalled</l>
+               <l>Be Barbarized by a mutual War.</l>
+            </lg>
+            <lg>
+               <l>Tearing the precious gentle Legacie,</l>
+               <l>Their Lord bequeathed to their Cuſtodie.</l>
+               <pb facs="tcp:42434:5"/>
+               <l>They who by Myſtick Union are knit</l>
+               <l>Under one Head, no other Foes do ſeek,</l>
+               <l>But their Fraternal members; and forget,</l>
+               <l>That whilſt on them their ſavage ſpight they wreak,</l>
+               <l>The tender Head feels every Wound, and will</l>
+               <l>Score up each drop, which of his Blood they ſpill.</l>
+               <l>Weep all good eyes, which ſee this dreadful Shame,</l>
+               <l>Oſ Chriſtians digging Chriſtian's bowels up;</l>
+               <l>Sure ſtreams of Blood deſerve your briny ſtream,</l>
+               <l>Weep then, and let your Bottels never ſtop!</l>
+               <l>Till you have waſh'd away this purple ſtain,</l>
+               <l>'Gainſt which all Powers, without your Tears are vain!</l>
+               <l>Had but the thouſandth part of this dear blood,</l>
+               <l>Adventur'd to be broach'd in Paleſtine;</l>
+               <l>Quite overwhelm'd by its exuberant flood,</l>
+               <l>Had <hi>Mahomet's wide ſpred</hi> Contagion bin:</l>
+               <l>And woful Greece had not enſlaved lain,</l>
+               <l>Under the bondage of a Pagan chain.</l>
+               <l>Or had that Power of Policy, and Wrath,</l>
+               <l>Of Arms, of Horſe, of Men, of ſtronger Gold,</l>
+               <l>Which in our ſelf-deſtroying Brittain hath</l>
+               <l>Of late bin laviſh'd out, (when <hi>England</hi> ſold</l>
+               <l>Her peace to miſery,) with provident</l>
+               <l>And pious Zeal, in <hi>Syria</hi> been ſpent;</l>
+               <l>Our guilty Swords had not now Bluſhed in</l>
+               <l>Fraternal blood; nor had our Palms and Bays</l>
+               <l>With any Engliſh curſe deflowred bin;</l>
+               <l>But <hi>Salem</hi> her ſad Head, had 'gan to raiſe,</l>
+            </lg>
+            <lg>
+               <l>Fleeing from her long preſſed Neck, the yoke</l>
+               <l>Of Ottamanick Barbariſm broke.</l>
+            </lg>
+            <lg>
+               <l>Oh Thou, who when thou didſt aſcend on High,
+<note place="bottom">
+                     <hi>God in Chriſt, hath committed to us the Word of</hi> Reconciliation. 2 Cor. 5.19.</note>
+               </l>
+               <l>Didſt give thine own <hi>Peace-teaching Miniſtry!</hi>
+               </l>
+               <pb facs="tcp:42434:6"/>
+               <l>A <hi>Gift</hi> whereof thy <hi>Church</hi> doth humbly Boaſt,</l>
+               <l>As greateſt,, next the <hi>Gift</hi> of th' <hi>Holy Ghoſt!</hi>
+               </l>
+               <l>Thy <hi>Church</hi> fill with thoſe <hi>Teachers!</hi> and them fill</l>
+               <l>With that moſt <hi>Holy Ghoſt,</hi> if 't be thy will!</l>
+               <l>Send [like of this our Brother took away,]</l>
+               <l>More <hi>Shepheards</hi> in this <hi>Wolf</hi>-abounding Day!</l>
+               <l>So ſhall <hi>On Earth be Peace!</hi> [through <hi>GOD-MAN</hi>] then</l>
+               <l>
+                  <hi>Men</hi> ſhall b' at Peace with <hi>God,</hi> and <hi>God</hi> with <hi>Men!</hi>
+               </l>
+               <l>And as the <hi>whole Earth</hi> never ſhall again</l>
+               <l>Be Drown'd; thy <hi>Church</hi> too ever ſhall remain,</l>
+               <l>Safe from the Floods of <hi>Turk,</hi> of <hi>Pope,</hi> of <hi>Hell,</hi>
+               </l>
+               <l>And all that 'gainſt the Peace of <hi>Sion</hi> ſwell!</l>
+               <l>When the <hi>twelve hundred Sixty Days are gone,</hi>
+               </l>
+               <l>
+                  <hi>Rome</hi>'s <hi>Scarlet</hi> and our <hi>Sackcloth</hi> will be done!</l>
+               <l>
+                  <hi>Satan</hi> ſhall hang in Chaines! <hi>Gentile</hi> and <hi>Jew</hi>
+               </l>
+               <l>Shall <hi>both</hi> pray, <hi>Come Lord Jeſus,</hi> Holy, True!</l>
+               <l>On winged Hours, Oh haſt that bleſſed Day!</l>
+               <l>Unanimous <hi>Saints</hi> and <hi>Angels, Amen</hi> ſay,</l>
+            </lg>
+            <closer>
+               <signed>With the Chief of Sinners, And leſs than the leaſt of Saints. <hi>D. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:42434:6"/>
+            <epigraph>
+               <bibl>REV. 22.20.</bibl>
+               <q>
+                  <hi>Amen!</hi> The whole Verſe runs thus: <hi>He which teſtifieth theſe things, ſaith, Surely I come quickly. Amen! Even ſo, come, Lord Jeſus.</hi>
+               </q>
+            </epigraph>
+            <head type="sub">To the Lord Jeſus, declaring that he will not let it be long e're he come to judg the world, the Saints eccho back, <hi>Amen!</hi>
+            </head>
+            <opener>
+               <salute>Men and Brethren,</salute>
+            </opener>
+            <p>THE very <hi>Apoſtles</hi> who ſaw our <hi>Lord Jeſus</hi> his <hi>Transfiguration</hi> on the Mount, (which was a Rudi<g ref="char:EOLhyphen"/>ment and <hi>Specimen</hi> of that Glory wherein he ſhall appear at his ſe<g ref="char:EOLhyphen"/>cond coming), thoſe <hi>Apoſtles</hi> (all three of them, as <hi>Junius</hi> thinks; two
+<pb n="2" facs="tcp:42434:7"/>of them, as <hi>Grotius,</hi> and all (neceſſa<g ref="char:EOLhyphen"/>rily confeſs) did in their time warn the world, that he would ſoon be with them. <hi>He is ready to judg the quick and dead,</hi> ſaid <hi>Peter;</hi> adding, that he was not <hi>ſlack concerning the Promiſe of his coming:</hi> ſee 1 <hi>Pet.</hi> 4.5. &amp; 2 <hi>Pet.</hi> 3.9, 10. <hi>The Coming of the Lord draweth nigh, the judg ſtandeth before the door,</hi> ſaid <hi>James,</hi> Jam. 5.8, 9. <hi>It is the laſt time</hi> (or hour) the laſt time of the World, (the laſt Monarchy, ſome conſtrue it), ſo ſaid <hi>John.</hi> There are more than ſix<g ref="char:EOLhyphen"/>teen hundred years expired and gone ſince; and now certainly Chriſts Mi<g ref="char:EOLhyphen"/>niſters may, and with advantage, re<g ref="char:EOLhyphen"/>urge thoſe warnings. He is, at leaſt ſixteen hundred years nigher to Com<g ref="char:EOLhyphen"/>ing now. Bleſſed Souls they, that knowingly, and ſincerely, and fer<g ref="char:EOLhyphen"/>vently too, can ſay unto this, <hi>Amen!</hi>
+            </p>
+            <p>
+               <hi>That</hi> (which is the Doctrine I of<g ref="char:EOLhyphen"/>fer from this word) <hi>the Church of
+<pb n="3" facs="tcp:42434:7"/>God doth Chriſts members, ſay Amen, ſo be it unto, and cordially wiſh for, his Coming to judgment, according to his Promiſe. Chriſts Members</hi> do ſo, I ſay, and (knowingly) none but they. His Enemies wiſh no more for his Coming, than Malefactors, when ſureſt of death, wiſh for the <hi>Aſſizes.</hi> Were it in their power to ſtop him, he ſhould never come. But <hi>Chriſts Members</hi> all <hi>love his appearance</hi> (as 'tis 2 <hi>Tim.</hi> 4.8.) and deſire his Coming; as Priſoners, whoſe Friend is Judg, and who have well-ground<g ref="char:EOLhyphen"/>ed hopes of releaſement and liberty, long to hear the <hi>Trumpets</hi> ſounding. Yet do they not <hi>all,</hi> nay I'm confi<g ref="char:EOLhyphen"/>fident, not <hi>any</hi> at all times thus de<g ref="char:EOLhyphen"/>ſire and long for Chriſts Coming. <hi>Children of light</hi> walk ſometimes in <hi>darkneſs,</hi> nor are they always <hi>them<g ref="char:EOLhyphen"/>ſelves,</hi> as we uſe to ſpeak. But then they lament that ſo it is. And (moſt<g ref="char:EOLhyphen"/>ly) while they cannot, its an <hi>heart<g ref="char:EOLhyphen"/>ake</hi> to them that they cannot ſay
+<pb n="4" facs="tcp:42434:8"/>
+               <hi>Amen,</hi> to their Lords Coming. Still they have the <hi>wit,</hi> though not al<g ref="char:EOLhyphen"/>ways the <hi>Power,</hi> to ſay it. And 'tis not the leaſt Care and Buſineſs of their lives, to ſeek and pray for <hi>Will</hi> and <hi>Power</hi> and <hi>Act</hi> too. So that, methinks, they do in a ſort ſay <hi>Amen,</hi> when they do not and dare not. Becauſe though to <hi>Do</hi> they find not, yet even then, to <hi>Will</hi> is preſent with them; to <hi>Will</hi> it, I mean, on the beſt terms. And (ordinarily) he who gives that ſaid <hi>Will,</hi> is not long before he gives to <hi>Do</hi> alſo: and ſo is this the keeping of the Churches ſong, <hi>Amen! Come Lord Jeſu, come quickly!</hi> † It's well known how paſſionately the Church of old longed for his firſt coming; weary of the Shades and Darkneſs She dwelt under; ſick of deſire to ſee him in the fleſh: ſee <hi>Cant.</hi> 2.17. Godly Kings and Prophets would have given much t' have ſeen it.</p>
+            <p>In like manner, the Church ever ſince, hath, and till he comes, ever
+<pb n="5" facs="tcp:42434:8"/>will pray, <hi>Come Lord Jeſu!</hi> The <hi>Jews</hi> retain it as an old <hi>maxim; That prayer wherein's no mention of the Kingdom of God is no prayer.</hi> It's true, whether meant of the Kingdom of Grace or Glory. <hi>Chriſt</hi> teacheth to pray for the coming of the latter, as well as the former, <hi>Mat.</hi> 6.10. I underſtand that ſecond Petition: <hi>Thy Kingdom come,</hi> principally, if not wholly, of the Kingdom of <hi>Glory.</hi> Were it intended of the Kingdom of <hi>Grace,</hi> I judg with them who think it would have been thus worded; <hi>Thy Kingdom be promoted!</hi> for come it is already, that of Grace. Many Learn<g ref="char:EOLhyphen"/>ed and Godly <hi>Ancients</hi> and <hi>Moderns</hi> underſtand it purely of the Kingdom of Glory, and (with ſubmiſſion) I think, upon good grounds.</p>
+            <p>But paſs we on to the Conſideration of thoſe <hi>grounds</hi> and <hi>motives,</hi> which Saints have for the foreſaid <hi>Amen.</hi> Theſe will ſingularly well make both for the <hi>proof</hi> and <hi>Improvement</hi> of the
+<pb n="6" facs="tcp:42434:9"/>Doctrine offered. I ſhall tender but theſe few, of which ſome reſpect Saints themſelves more neerly; and others, God himſelf, the whole Trinity. For the firſt,</p>
+            <p>
+               <hi>M.</hi> 1. Saints <hi>Sorrows</hi> and <hi>Troubles</hi> in this world are true and juſt motives to them todeſire their Lord's Coming. They know that they ſhall never be without <hi>Sorrows</hi> of their own, and others too; never without <hi>Paſſions</hi> and <hi>Compaſſions, Feelings</hi> of their own, and <hi>Fellow-feelings</hi> of others miſeries, in this World. They can't look up<g ref="char:EOLhyphen"/>on inferiour Creatures without Trouble at their miſery and Bondage for mans ſin. The <hi>Earth</hi> ſtruck with barren<g ref="char:EOLhyphen"/>neſs, and fruitfulneſs of things hurt<g ref="char:EOLhyphen"/>ful; the <hi>Air</hi> (how often) with Pe<g ref="char:EOLhyphen"/>ſtilential fumes; the <hi>Stars</hi> with ma<g ref="char:EOLhyphen"/>lign influences that infect the Air; the <hi>Sun</hi> and <hi>Moon</hi> with eclipſes; the tireſome drudgery of <hi>all poor Crea<g ref="char:EOLhyphen"/>tures</hi> for mans <hi>Neceſſity, Pleaſure,</hi> yea and ſinful <hi>Luſt</hi> too; theſe are <hi>Eye<g ref="char:EOLhyphen"/>ſores</hi>
+               <pb n="7" facs="tcp:42434:9"/>and <hi>Heart-ſores</hi> to Saints. And ſo are (much more) all the <hi>Oppreſſi<g ref="char:EOLhyphen"/>ons done under the Sun</hi> to mankind, that is ſo full of them. Their <hi>Con<g ref="char:EOLhyphen"/>tentions, Wars, Frauds,</hi> and all me<g ref="char:EOLhyphen"/>thods of making one the other miſe<g ref="char:EOLhyphen"/>rable, diſquiet, and go to the hearts of Saints. The <hi>Perſecutions of Gods Church</hi> by profeſſed <hi>Enemies,</hi> by falſe <hi>Friends,</hi> and (ſometimes too) by miſtaking <hi>erring Brethren,</hi> theſe are <hi>gall and Wormwood</hi> to Saints. Add hereto what they often ſuffer them<g ref="char:EOLhyphen"/>ſelves, in <hi>Soul, Body, Name, Eſtate,</hi> and <hi>Friends:</hi> Sometimes, becauſe they have ſin'd; and ſometimes, be<g ref="char:EOLhyphen"/>cauſe they <hi>will</hi> not, <hi>dare</hi> not ſin. All theſe ſpur them up to pray for his coming, who will deliver (then) the Creatures from their <hi>Bondage, Rom.</hi> 8.21. and will wipe away all their <hi>Tears, Rev.</hi> 7.16, 17, and drive away <hi>Sorrow</hi> and <hi>Crying,</hi> Rev. 21.4. yea will give <hi>fulneſs of joy and plea<g ref="char:EOLhyphen"/>ſures for evermore,</hi> Pſal. 16.11.</p>
+            <pb n="8" facs="tcp:42434:10"/>
+            <p>
+               <hi>M.</hi> 2. Saints manifold <hi>Temptations</hi> and inceſſant ones unto ſin, in every <hi>place, time,</hi> and <hi>condition.</hi> This world is no pleaſant place under the (firſt) Conſideration of it, as 'tis a great <hi>Hoſ<g ref="char:EOLhyphen"/>pital</hi> of ſick and ſad wretches; and <hi>Bedlam</hi> of wild folks let looſe, and tearing each other. But it's worſe as 'tis a <hi>Peſt-houſe,</hi> without one <hi>Room</hi> or part of it but hugely full of Noiſom fumes; and without any one <hi>Perſon</hi> in it but <hi>infected</hi> and <hi>infectious;</hi> and without poſſibility of being lived in, for the infection, any longer than you uſe ſtrong Antidotes, and high Cor<g ref="char:EOLhyphen"/>dials. Were you lock'd into ſuch an houſe and could not get out, you and your deareſt ones, till ſome good Freind came home; would you not ſay <hi>Amen!</hi> to his ſpeedy coming? Sirs, <hi>Sin</hi> is the <hi>Plague</hi> of <hi>Plagues;</hi> The <hi>World</hi>'s a <hi>Peſt-houſe</hi> of it. Where's that ſpot of ground on it, but the <hi>Fleſh, Devil</hi> and <hi>Deviliſh men</hi> will be infecting one with it? Nay, where's
+<pb n="9" facs="tcp:42434:10"/>the man in it, that is not infected him<g ref="char:EOLhyphen"/>ſelf with it, and apt (of <hi>Wickedneſs</hi> or <hi>weakneſs</hi>) to infect one with it, and tempt one into it? Can you live ſinleſs a minute without Gods preſer<g ref="char:EOLhyphen"/>vatives? Without Gods Antidotes can you keep out <hi>Diſobedience?</hi> or without his cordials keep off <hi>Diſtruſt?</hi> Saints are Souls that know the defi<g ref="char:EOLhyphen"/>ling damning nature of <hi>Sin;</hi> and know the deceitfulneſs of their own <hi>hearts,</hi> the bewitchingneſs of the <hi>Worlds favors</hi> and <hi>frowns</hi> and <hi>cuſtoms;</hi> as alſo the <hi>Devils devices, ſnares, wiles darts, depths;</hi> and find ſo much ado to keep a flood of Hell out, and a ſpark of Heaven in them, that they can't forbear longing for Chriſt to come and carry them into Heaven, and put them up, above the <hi>Gunſhot</hi> of Hell, and helliſh men, and luſts. They know <hi>Davids,</hi> and <hi>Peters,</hi> and <hi>Pauls,</hi> can no longer ſtand, than they Fight in this world, and they know <hi>Jehovah-Jeſus,</hi> when he comes, will
+<pb n="10" facs="tcp:42434:11"/>find them a place, where the <hi>weary are at reſt and the wicked</hi> (Devils, men, Objects, and Luſts) <hi>ceaſe from troubling,</hi> as <hi>Job</hi> ſpeaks, <hi>Job.</hi> 2.17.</p>
+            <p>
+               <hi>M.</hi> 3. Saints <hi>Sins</hi> are yet the ſharp<g ref="char:EOLhyphen"/>eſt goades in their ſides, and quicken<g ref="char:EOLhyphen"/>ing motives in their hearts to pray for Chriſt's coming. Patience will make <hi>Troubles;</hi> and divine Valour makes <hi>Temptations</hi> Tolerable, though not Pleaſant. But for <hi>Sin,</hi> Oh what can a holy heart ſay, or do? <hi>Other mens ſins, the World's,</hi> the <hi>Kingdom</hi>'s, where<g ref="char:EOLhyphen"/>in he lives, the <hi>Town</hi>'s, <hi>Congregation</hi>'s the <hi>Family</hi>'s; Oh how do all, join in with his own, to cut his Soul in meditation, His own <hi>weakneſs of Grace, ſtrength of Corruption, Frequency of offending and grieving God the Holy Ghoſt,</hi> to the gratifying of damn'd Devils! what <hi>daggers</hi> are theſe in a gracious heart? Saints conſider further; be<g ref="char:EOLhyphen"/>fore Converſion that they do nothing <hi>but</hi> ſin; that after it, they do nothing <hi>without</hi> ſin, that if they ſhould alſo live a thouſand years yet more, ſtill
+<pb n="11" facs="tcp:42434:11"/>ſin againſt God they ſhould, more or leſs, as long as their <hi>pulſes</hi> beat. And this makes heart-ake, and Soul-ſmart, this is a <hi>Scorpion.</hi> Look into your <hi>Bibles,</hi> Brethren, yea look into Houſes where Saints are to be ſeen! You ſhall learn in the <hi>Hiſtory</hi> of former ones, and ſo in the <hi>Obſervation</hi> of the living ones this day, that ſin is no ſuch <hi>Flea<g ref="char:EOLhyphen"/>bite</hi> to them, as <hi>Formaliſts</hi> imagin. They know 'tis a Renouncing of the Bleſſed God; yea a ſtriking at him as far as Sinners can reach, and (as the <hi>Schools</hi> ſay well) a murdering of God, his <hi>Eſſence, Soveraignty, Per<g ref="char:EOLhyphen"/>fections, Laws,</hi> all together <hi>virtually.</hi> They know ſin's as evil <hi>(Objectively)</hi> as God is Good, and therefore <hi>infi<g ref="char:EOLhyphen"/>nitely</hi> evil. They know that it hath effected diſmal things in <hi>Heaven, Earth,</hi> and <hi>Hell;</hi> that it turn'd <hi>Angels</hi> into <hi>Devils,</hi> that it (even one ſin) damn'd the <hi>whole World,</hi> brought Gods wrath and curſe on <hi>Mankind,</hi> and all the Creatures for our ſakes; that it found<g ref="char:EOLhyphen"/>ed
+<pb n="12" facs="tcp:42434:12"/>
+               <hi>Hell,</hi> kindled and ſet flaming all the Fire there; that to expiate it, it coſt the Eternal God's becoming man, the <hi>Bleſſed God</hi>'s being made a <hi>Curſe,</hi> the Lord of <hi>Life</hi>'s enduring <hi>Death,</hi> the Prince of <hi>Glory</hi>'s lying under <hi>Shame,</hi> with a load of his Fathers <hi>wrath</hi> upon it, hotter and heavier than ten thouſand mountains of melted ſcalding Lead. And the ſight of this curſed Quality, this evil of evils, ſin, the ſight of it daily in <hi>themſelves,</hi> their <hi>hearts</hi> and their <hi>Lives,</hi> this over<g ref="char:EOLhyphen"/>whelms; and but for a great <hi>God Me<g ref="char:EOLhyphen"/>diator,</hi> a <hi>Jehovah's righteouſneſs,</hi> would ſink into diſtracting raving deſpair. Eſpecially conſidering, (as I know not what kind of Saints they be that do not conſider) that there ſtill cleav<g ref="char:EOLhyphen"/>eth a <hi>Body</hi> of <hi>Sin</hi> (a heavy Noiſome ſtinking carcaſs of it) and there <hi>dwell<g ref="char:EOLhyphen"/>eth</hi> ſtill within, a buſie ſtirring active Rebel-ſin, never in this Life to be quite expel'd. But is it thus, may ſome ſay, with very Saints? I ſay read
+<pb n="13" facs="tcp:42434:12"/>
+               <hi>Rom.</hi> 7th <hi>Ch.</hi> and judg. Ask the God<g ref="char:EOLhyphen"/>lieſt Souls alive, and hear what they ſay! † Obſerve on, Saints do alſo know, that except but the ſin againſt the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, there's no ſin but they <hi>may</hi> (and being left by God to themſelves, they <hi>are moſt ready</hi>) to fall into; even the fouleſt ones, that very graceleſs <hi>Mo<g ref="char:EOLhyphen"/>raliſts</hi> themſelves would abhor. They know (and ſhake in their thoughts) <hi>Aaron</hi> himſelf fell into foul <hi>Idolatry, David</hi> into <hi>Adultery</hi> and <hi>Murder; Joſeph's Brethren</hi> (the <hi>Patriarches</hi>) were in a ſenſe <hi>Murderers</hi> of him. <hi>Sampſon</hi> ſo ſinful, that had not God numbred him among Saints, men might juſtly have doubted his being one. <hi>Peter Lied, Sware, Curſed;</hi> not Chriſt indeed I judg, but himſelf he curſed moſt dreadfully. The Original word's ſuch, that makes it as if he ſaid in the late dialect of Hell, <hi>God Damn him!</hi> or, <hi>God Curſe his Soul!</hi> Saints I ſay know this, and ſtand juſtly affected with Sollicitouſneſs and Care, leſt
+<pb n="14" facs="tcp:42434:13"/>their feet ſlide even ſo far away; and leſt their ſins in dwelling, like <hi>Snakes</hi> lurking in the holes of a dunghil, when 'tis cold, ſhould crawl out and come into Act, upon the <hi>gloom</hi> of Temptation. Shall I add? <hi>Satan</hi> and their own <hi>hearts</hi> riſe up ſometimes, and ſuggeſt, that they are from eter<g ref="char:EOLhyphen"/>nity <hi>Reprobates;</hi> be now but <hi>Hypo<g ref="char:EOLhyphen"/>crites,</hi> and one time or another be<g ref="char:EOLhyphen"/>fore they dye, will prove <hi>Apoſtates:</hi> and poor gracious hearts, frighted firſt into a diſcompoſure and diſability to make a judgment reaſonably of them<g ref="char:EOLhyphen"/>ſelves, by and by <hi>faint</hi> under the doubt; nay ſometimes fall to ſtark <hi>raving</hi> in the dread that 'tis indeed, and 'twill be ſo, with them. † Theſe things, <hi>my Brethren,</hi> (and what won<g ref="char:EOLhyphen"/>der?) ſtimulate and provoke Saints (many of your ſelves I hope) to a<g ref="char:EOLhyphen"/>bound in hearty <hi>Amens</hi> to the ſpeedy coming of the great God and our Sa<g ref="char:EOLhyphen"/>viour: of him I ſay, who when he appears, will make his Saints <hi>like him<g ref="char:EOLhyphen"/>ſelf,</hi>
+               <pb n="15" facs="tcp:42434:13"/>1 <hi>John</hi> 3.2. and ſet them far a<g ref="char:EOLhyphen"/>bove and out of the reach of <hi>Sorrow, Temptation,</hi> and <hi>ſin,</hi> and <hi>ſinful Doubts,</hi> and <hi>Fears.</hi> Yea will alſo <hi>ſatisfie them with his likeneſs,</hi> Pſal. 17.15. Ult. <hi>make them joint poſſeſſors of Grace and Glory with himſelf,</hi> Rom. 8.17. and for ever hold them in an undi<g ref="char:EOLhyphen"/>ſturbed <hi>Poſſeſſion.</hi>
+            </p>
+            <p>
+               <hi>M.</hi> 4. Saints (innocent, yea gra<g ref="char:EOLhyphen"/>cious) earneſt <hi>Covetouſneſs of the beſt things,</hi> adds to all their foreſaid incitements and incentives, to ſay <hi>Amen</hi> to their Lords coming. † As they are heart-weary of <hi>Troubles, Temptations,</hi> and <hi>ſins,</hi> ſo are they heart-ſick for <hi>better things.</hi> Could you look through their breaſts and to the pit of their hearts, you would ſee there, 1. a Pit that all the Creation can't fill; and 2. an impoſſibility of being (fully) ſatisfied with <hi>but Grace</hi> it ſelf. Grace, I ſay, which is but a ſhort <hi>antepaſt</hi> to them, to ſtay their ſtomachs and appetites of <hi>Glory;</hi> the
+<pb n="16" facs="tcp:42434:14"/>
+               <hi>Glory</hi> which (alone) is their ſatisfy<g ref="char:EOLhyphen"/>ing feaſt, <hi>Pſal.</hi> 17.15. You would ſee, Sirs, 3. you would ſee their Cravings and Pantings for <hi>Incorruption,</hi> and freedom from Poverty, Violence Sick<g ref="char:EOLhyphen"/>neſs, <hi>&amp;c.</hi> for <hi>Honor,</hi> and ſuch bright<g ref="char:EOLhyphen"/>neſs and ſplendor as that of <hi>Chriſt</hi> was in his <hi>Transfiguration,</hi> fairer than the Sun; for <hi>Power</hi> and <hi>Vigor,</hi> per<g ref="char:EOLhyphen"/>fect freedom from all impediments; and for <hi>Spirituality,</hi> no need of Cloath<g ref="char:EOLhyphen"/>ing or Food or any animal Proviſions; all theſe do Saints crave, for their ve<g ref="char:EOLhyphen"/>ry <hi>Bodies,</hi> 1. <hi>Cor.</hi> 15.42, 43, 44. And what then for their <hi>Souls?</hi> Hear a few hints! Saints for their Souls crave, 1. Full <hi>Sight of God</hi> as he is, and face to face; with ſuch perfection as leaves no <hi>Deſire</hi> unſatisfied, or <hi>Capacity</hi> un<g ref="char:EOLhyphen"/>filled. 2. Full <hi>Poſſeſſion of God,</hi> with all the Faculties of their Souls as full of him, as the Sun's of Light, or Sea of water. 3. Full <hi>Conformity</hi> unto <hi>Chriſt.</hi> 4. Full <hi>Complacence</hi> and <hi>De<g ref="char:EOLhyphen"/>light</hi> in the <hi>ſight, enjoyment</hi> and <hi>like<g ref="char:EOLhyphen"/>neſs</hi>
+               <pb n="17" facs="tcp:42434:14"/>of God; and <hi>Communion</hi> with him, <hi>Angels, Patriarchs, Prophets, E<g ref="char:EOLhyphen"/>vangeliſts, Apoſtles, Martyrs,</hi> all Gods, and our own Godly dear <hi>Relations,</hi> to everlaſting Ages. Being men of ſuch Deſires, (Deſires ſo unfillable till Jeſus comes,) what wonder if <hi>Hope delay'd make the hearts</hi> of Saints <hi>ſick</hi> and ſick of Love, to pray, <hi>Come Lord Jeſus, come quickly!</hi> who knows not the quickning force of enlarged De<g ref="char:EOLhyphen"/>ſires?)</p>
+            <p>
+               <hi>M.</hi> 5. Saints <hi>Loves of God, and hearty Deſires of his Glory,</hi> do eminently and excellently urge them to join their <hi>Amen</hi> to <hi>Chriſts</hi> coming quickly. At<g ref="char:EOLhyphen"/>tend you, Sirs, 1. God is the dearly beloved Father of Saints; the <hi>Trini<g ref="char:EOLhyphen"/>ty</hi> is their one God. 2. This Holy and beloved <hi>Trinity</hi> is in the world for<g ref="char:EOLhyphen"/>gotten, ſcorn'd, hated, rebell'd a<g ref="char:EOLhyphen"/>gainſt, wiſh'd out of <hi>Heaven</hi> yea out of <hi>Being.</hi> Moſt of the Nations of the earth by far, make <hi>Profeſſedly</hi> other gods. The <hi>Jews</hi> Curſe our <hi>Bleſſed
+<pb n="18" facs="tcp:42434:15"/>Jehovah-Jeſus</hi> every day. The <hi>Turks</hi> prefer a filthy impoſtor <hi>(Mahomet)</hi> before him. The <hi>Papiſts</hi> (generally) go neer the <hi>Jews</hi> in their doctrines, and the <hi>Pagans</hi> in their manners: Eſpecially the <hi>Italian, Spaniſh,</hi> and <hi>Iriſh Papiſts. Proteſtants,</hi> if they muſt be ſo call'd, how many <hi>Hypocrites?</hi> how many <hi>Profane? Socinians and Quakers,</hi> hereticks knownly odious (in <hi>Doctrine</hi> and <hi>Life</hi>) to God and Saints, how do they ſwarm? how ve<g ref="char:EOLhyphen"/>ry little is the flock of true <hi>Iſraelites?</hi> And in this little flock it ſelf, how ve<g ref="char:EOLhyphen"/>ry great ſins be there, and diſhonours to God (as hath been foreſaid.) Saints ſee their Father hath a ſmall <hi>income</hi> of <hi>Honour</hi> here; but <hi>Diſhonour,</hi> every minute of time, unexpreſſible. And 3. They ſo Love God, that they can't ſee it <hi>unconcernedly:</hi> No, <hi>Rivers of tears</hi> it ſtood <hi>David</hi> in, <hi>Pſal.</hi> 119.136, 139. They know, in the day of <hi>Chriſt</hi> it muſt be, that their Father is (I was about to ſay, any thing worth a ſpeak<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:42434:15"/>of,) <hi>Glorified in his very ſaints</hi> themſelves, 2 <hi>Theſ.</hi> 1.10. They them<g ref="char:EOLhyphen"/>ſelves can do but little at that work before; others, be ſure will do <hi>con<g ref="char:EOLhyphen"/>trarily.</hi> Wherefore, as dear Children, impatient of their Fathers <hi>diſhonour,</hi> (by themſelves and others,) deſirous of his <hi>Glory,</hi> longing to have it ſhine forth; and to behold him Honour<g ref="char:EOLhyphen"/>ing and Magnifying himſelf upon his <hi>Friends</hi> and <hi>Enemies</hi> too, they pour out <hi>Amen</hi> and <hi>Amen</hi> to the quick ap<g ref="char:EOLhyphen"/>proach of the day thereof. In the former Conſiderations, eye was had to their own Good and divine Glory therein: In this, the reſpect of Saints is purely to the Glory of their Father. And I am perſwaded many there be, ſo concerned for his Glory, that were the Day of <hi>Chriſts</hi> coming to be a day of their <hi>Annihilation,</hi> yet they would wiſh for it; and wiſh it ſtraightways come, rather than Gods name and Glory ſhould any longer be ſuch <hi>ſuf<g ref="char:EOLhyphen"/>ferers</hi> in the world. (I hope no man
+<pb n="20" facs="tcp:42434:16"/>will ſay, But is 't not fit we ſhould wait <hi>Chriſts</hi> own time? If any ask ſo <hi>weakly,</hi> I anſwer, yes ſurely, it is ſo. And 'tis with holy ſubmiſſion that Saints, upon all theſe <hi>Motives,</hi> do pray <hi>Come Lord Jeſu!</hi> Alſo, that 'tis with Prayer of his firſt accompliſhing his <hi>Promiſes</hi> too, unto his elect.)</p>
+            <p>This <hi>Doctrine</hi> is of excellent <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> (among others) unto theſe Pur<g ref="char:EOLhyphen"/>poſes.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. It turnes out all our carnal<g ref="char:EOLhyphen"/>minded, earthly-ſpirited <hi>Profeſſors,</hi> from the number of <hi>Chriſts-members;</hi> and declares them to be but <hi>whiter</hi> (incarnate) <hi>Devils,</hi> than Swiniſh Drunkards and filthy Whoremongers, <hi>&amp;c.</hi> They, <hi>Chriſts members</hi> and <hi>Bride,</hi> and careleſs for, yea pleaſed with, his abſence! A likely matter! I am cer<g ref="char:EOLhyphen"/>tain that as many of you as Love (in<g ref="char:EOLhyphen"/>ordinately) this world, you wiſh it would laſt for ever; and that you could for ever dwell in it; and (con<g ref="char:EOLhyphen"/>ſequently) that <hi>Chriſt</hi> were never to
+<pb n="21" facs="tcp:42434:16"/>come, and no <hi>Judgment-day</hi> to be; and ſo (by conſequence again) that there were no God. And, let your Conſciences ſay then, is it juſt we ſhould eſteem you Converts to God, and members of Jeſus Chriſt, or can you think your ſelves ſuch? I'm per<g ref="char:EOLhyphen"/>ſwaded, your hearts tell you, that 'tis as proper to a Saint to Pray and Deſire Chriſts coming, as 'tis to a loving <hi>Wife</hi> when her houſe is every day ſo peſtered with the Clamors of Outrages of Violent men upon her ſelf, and her whole family, that ſhe ſcarce knows where to be, to Deſire her <hi>Husbands</hi> return: Eſpecially, if her <hi>Chaſtity</hi> be aſſaulted, her <hi>Life</hi> en<g ref="char:EOLhyphen"/>dangered, and her only <hi>Hope</hi> of reſcue be in his return. I Pray let the ſame hearts of yours then tell you, that if you can lye hugging the <hi>world,</hi> and brook it's <hi>troubles</hi> and <hi>temptations,</hi> and ſuffer your <hi>ſins,</hi> and be liſtleſs of <hi>Glory</hi> in Heaven, and unconcern'd for the <hi>Diſhonour</hi> done to God in the
+<pb n="22" facs="tcp:42434:17"/>world, and pour out no ſincere <hi>Amens</hi> to <hi>Chriſts</hi> coming, you are then no members of his. You are ſtrangers, enemies, <hi>Anti-Chriſts,</hi> for all your <hi>Orthodoxie,</hi> for all your <hi>ſhadows</hi> and <hi>ſhapes</hi> of Godlineſs, for all your <hi>pre<g ref="char:EOLhyphen"/>ſumptions</hi> and <hi>others</hi> Opinions of your being <hi>Well-inclin'd, Good,</hi> or whatever it be. I am ſure St. <hi>Paul</hi> ſtretches the promiſe of the <hi>Crown of Righteouſneſs,</hi> no further than to the <hi>Lovers of Chriſt's Appearance,</hi> 2. <hi>Tim.</hi> 4.8. And I know not any ground they can have to expect <hi>that Crown,</hi> who wiſh not cordially for <hi>that Ap<g ref="char:EOLhyphen"/>pearance.</hi> Bleſſed <hi>Luther</hi> ſays plainly, (<hi>Tom.</hi> 5. fol. 507.) <hi>He's no Chriſtian, nor can he</hi> (without lying) <hi>ſay the Lords prayer, that wiſheth not for Chriſts coming</hi> (and that) <hi>with all his heart.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 2. It ſounds an alarum unto <hi>Heart-ſearch,</hi> and enquiry how it is with you. Whether you can ſay, ſay truly, and with any fervency, <hi>Amen</hi>
+               <pb n="23" facs="tcp:42434:17"/>to <hi>Jeſus</hi> his ſpeedy Coming. † We ſhould not conclude <hi>overhaſtily;</hi> or by any means lye at <hi>uncertainties</hi> in this thing. You are Certified that Gods true Church doth ſay <hi>Amen!</hi> and that you, if of that number, muſt ſay ſo too. I Charge and beſeech you by the tender mercies of God, and all the regards you bear to Sanctification and Salvation, go labour to <hi>certifie</hi> your ſelves, whether you <hi>can</hi> and <hi>do</hi> verily ſay it. Away to your Cloſets, and the places of your Retiracy, and ask your Souls in ſuch manner as this, each of you! Oh my never-dying Soul! (<hi>Qu.</hi> 1.) Sayeſt not thou of this world, of this valley of <hi>ſin</hi> and <hi>ſorrow</hi> and <hi>Temp<g ref="char:EOLhyphen"/>tation</hi> and <hi>abſence from the Lord,</hi> as <hi>Peter</hi> of the mount, <hi>It's good to be here?</hi> Mat. 17.4. (<hi>Qu.</hi> 2.) Art thou not at eaſe in <hi>Sion,</hi> fat at heart, a <hi>Gal<g ref="char:EOLhyphen"/>lio</hi> and careleſs for the ſins and miſeries abroad in the world? As of old, <hi>Noah</hi>'s Soul, art thou <hi>vexed</hi> with them from day to day, 2 <hi>Pet.</hi> 2.8. (<hi>Qu.</hi> 3)
+<pb n="24" facs="tcp:42434:18" rendition="simple:additions"/>Art thou looking expecting and wait<g ref="char:EOLhyphen"/>ing for that <hi>bleſſed hope and the glori<g ref="char:EOLhyphen"/>ous appearance of the great God and thy Saviour Jeſus Chriſt?</hi> Tit. 2.13. Doſt <hi>look for and haſten to it,</hi> as 'tis 2 <hi>Pet.</hi> 3.12? Doſt joyn with the Souls under the <hi>Altar,</hi> in their cry, for the cutting off all delays? <hi>Rev.</hi> 6.10. Doth the Holy Spirit in thee, and thou as Chriſts bride ſay, <hi>come!</hi> as 'tis <hi>Rev.</hi> 22.17. (<hi>Qu.</hi> 4.) Doſt thou live like one that <hi>doth,</hi> and <hi>may</hi> ſay, ſafely ſay <hi>Amen!</hi> How is that? That is, doing thy Gods will with <hi>diligence,</hi> and ſuffering it with <hi>Patience;</hi> and ſo Cleaving to <hi>Jeſus</hi> a <hi>Saviour,</hi> that thou mayſt not need to fear him a <hi>Judg,</hi> as St. <hi>Auſtin</hi> ſpeaks.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 3. It writes in <hi>Sun</hi>-beams the bleſſed Eſtate of the <hi>truly Godly.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeems, have in this world <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that's more worth than all <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>the wallings Enjoyments:</hi> and have <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Coming, beyond meaſure, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> imagination good. They are
+<pb n="25" facs="tcp:42434:18"/>Souls acquainted with, and intereſted in, the <hi>Heir of all things!</hi> They have an aſſured Hope of a <hi>good Day</hi> of his bringing, when Flames fed with ri<g ref="char:EOLhyphen"/>vers of brimſtone and the wrath of God, ſhall mercileſly devour all be<g ref="char:EOLhyphen"/>ſides. As well the formal <hi>Hypocrite</hi> and empty <hi>Profeſſor,</hi> as the Prophaneſt <hi>rakehel Helhound</hi> that ever lived. Oh Bleſſed! thrice Bleſſed Souls without peradventure! If they can ſay <hi>Amen</hi> to Chriſts Coming, and long even for that day of Fire, tell me whereof they need be <hi>afraid?</hi> or what in this world need they be very <hi>ſollicitous for,</hi> who are ſo well provided for the next? I have (with my own ears) heard <hi>Perſons of Honour</hi> and huge eſtate and ſubſtance in the world profeſs, that they would give all, and Life it ſelf too; for ability to ſay, with the Church of God, <hi>this Amen!</hi> Nor wonder I any more, than if they ſhould ſay, they would give a <hi>pebble</hi> for a <hi>rock of Diamonds,</hi> or a <hi>nutſhel</hi> for the <hi>ſpice-Iſlands.</hi>
+               <pb n="26" facs="tcp:42434:19"/>Sith the <hi>prophane</hi> and <hi>Hypocri<g ref="char:EOLhyphen"/>tical</hi> World, have not the grace to <hi>Love</hi> Saints, I will never wonder that they <hi>Envy</hi> them. It can't be ſtrange that a Happineſs ſo great is <hi>Envied,</hi> though 'tis ſad that it's not rather <hi>learn'd</hi> and <hi>ſought for.</hi> Seek it, oh <hi>my Brethren, Wreſtle</hi> humbly with God, <hi>Fight</hi> fleſh World and Devil; <hi>Reſt</hi> not till your Longings for <hi>Jeſus</hi> his Coming are <hi>reſtleſs,</hi> and Mr. <hi>Herbert</hi>'s ejaculation ſtirs daily in, and ſprings forth from your Souls, to <hi>Jeſus Chriſt.</hi>
+            </p>
+            <q>
+               <l>Oh come thou down to me,</l>
+               <l>Or take me up to Thee!</l>
+            </q>
+            <p>Need you <hi>Motives</hi> hereunto? Sirs! your <hi>hearts</hi> are deceitful; the <hi>World</hi>'s Temptation-full; <hi>Devils</hi> (that in Na<g ref="char:EOLhyphen"/>ture be <hi>ſpirits,</hi> in Number be <hi>many,</hi> in place be ſo <hi>neer you,</hi> in <hi>Power</hi> be <hi>Lions,</hi> in Policy be <hi>ſerpents,</hi> in in<g ref="char:EOLhyphen"/>duſtry be <hi>reſtleſs,</hi> in malice be <hi>impla<g ref="char:EOLhyphen"/>cable,</hi> in Plots and all Projects be
+<pb n="27" facs="tcp:42434:19"/>
+               <hi>ſoul-ſtrikers:</hi>) Devils, I ſay, are <hi>Op<g ref="char:EOLhyphen"/>poſition-full;</hi> your <hi>Lives</hi> be <hi>ſhort,</hi> and moſt <hi>uncertain;</hi> your <hi>Deaths</hi> be at hand; <hi>Gods judgment</hi> is juſt and una<g ref="char:EOLhyphen"/>voydable; <hi>Heaven</hi>'s infinitely deſira<g ref="char:EOLhyphen"/>ble; <hi>Hell</hi> is as dreadful, and <hi>Eternity</hi> is boundleſs, to very aſtoniſhment. Unto all which, add you this; The <hi>day of Grace</hi> is far ſpent; The <hi>Night</hi>'s <hi>at hand wherein no man can work;</hi> God is apace taking up to himſelf his <hi>Embaſſadors.</hi> An Obſervation-wor<g ref="char:EOLhyphen"/>thy token, that he intends not much longer to await your <hi>Motion.</hi> The <hi>Prophets do not live for ever,</hi> Zech. 1.5. Yea neither doth God ſuffer them, [many of them] to live out ſo many years as the people ordinarily do. Hereof, the Servant and Miniſter of <hi>Chriſt</hi> whoſe <hi>Tranſlation</hi> we lament,
+<note n="*" place="margin">Mr. Noah Web.</note> is an inſtance; I need not ſuperadd <hi>Bleſſed Jo. Alleine, Janeway, Hen. Blake, Si. Bar<g ref="char:EOLhyphen"/>ret,</hi> and others.</p>
+            <p>Methinks the late <hi>Tranſlation</hi> of the
+<pb n="28" facs="tcp:42434:20"/>firſt named, (whoſe <hi>Memory</hi> is ſo juſt<g ref="char:EOLhyphen"/>ly <hi>Precious</hi> to you,) ſhould be more than ordinary <hi>Impreſſive</hi> on you. I hope you forget not, but will ever re<g ref="char:EOLhyphen"/>member, how much his 1. Providential ſucceſſion to the <hi>Chryſoſtom</hi> of this age and moſt Powerful Preacher dri<g ref="char:EOLhyphen"/>ven from you; his 2. Unwearied pains and heavenly Teachings among you; alſo his 3. Converſation and holy Life ſo paſſing Exemplary to you how much all theſe do add to your <hi>Accounts</hi> at Gods bar! 'Twere a foul and fear<g ref="char:EOLhyphen"/>ful miſtake, if any ſhould dream that they had anſwer'd all theſe, by pro<g ref="char:EOLhyphen"/>curing and attending his <hi>Funeral Ser<g ref="char:EOLhyphen"/>mon.</hi> Alas, that muſt be done, by holding in <hi>Mind</hi> and <hi>Practice,</hi> his own <hi>more Powerful</hi> ones.</p>
+            <p>Nevertheleſs-of (this in particular, and all) Funeral-Sermons, I am of <hi>Renowned Ro. Bolton</hi>'s mind, which he hath left in theſe words (<hi>Diſcourſe of true happineſs,</hi> Pag. 63.) <q>Nei<g ref="char:EOLhyphen"/>ther do I miſlike Funeral Sermons; I
+<pb n="29" facs="tcp:42434:20"/>could rather wiſh, that as the death of his Saints is precious in the ſight of God; So that it might be glori<g ref="char:EOLhyphen"/>ous in the eyes of men: I could rather deſire, that the juſt Praiſes and true ſincerity of the child of God were publiſhed by ſome ſeraphical tongue, that both the Glory of his Graces might paſs along, and ſhine bright to all Poſterity; and that ſuch a Zeal for imitation might be in<g ref="char:EOLhyphen"/>kindled in the hearts of all the hear<g ref="char:EOLhyphen"/>ers (eſpecially the preſent occaſion making their minds more capable of perſwaſion,) that they, paſſing through the ſame courſe of Holineſs, might at length be made partakers of the ſame happineſs with the Saints of God.</q> Indeed, if this ſtroke of Providence (taking away him, who, ſo often in <hi>Journeying,</hi> and in <hi>Perils,</hi> ſo much in <hi>Wearineſs, Painfulneſs, Watchings,</hi> &amp;c. laboured to eſpouſe you to Chriſt Jeſus,) if this work not your minds into any more eaſie Per<g ref="char:EOLhyphen"/>ſwadableneſs,
+<pb n="30" facs="tcp:42434:21"/>if due Conſideracy of Bleſſed Mr. <hi>WEBS</hi> Sanctity, kin<g ref="char:EOLhyphen"/>dle not in you any fire for Zeal of imitation, I ſhall reaſonably eſteem it portending, (and judg 't highly pro<g ref="char:EOLhyphen"/>bable) that God will follow you with more ſuch <hi>blows;</hi> take away more of your <hi>Miniſters,</hi> who I can aſſure you, are (many of them) very willing to be gone; yea and by ſuch <hi>Obduracy</hi> of yours, will be made more willing. The <hi>Obduracy</hi> of one Congregation [within twenty miles of this place] made a moſt excellent <hi>Miniſter</hi> of <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt</hi> profeſs to me, that his <hi>Ejection</hi> in the year 1662.
+<note place="margin">Mr. <hi>S. S</hi>
+               </note> was unto him as the taking off of a heavy burden from tir'd ſhoul<g ref="char:EOLhyphen"/>ders. So weary, ſo heavy-laden, ſo broken was his gracious Soul, for his peoples unbrokenneſs. An eminent one in the City of <hi>Dublin</hi> in <hi>Ireland</hi> hath oft told me his heart; and oft in theſe words:
+<note place="margin">Dr. <hi>D. R.</hi>
+               </note> 
+               <hi>I am certain I am as willing to die, as
+<pb n="31" facs="tcp:42434:21"/>God will allow me to be.</hi> He himſelf, I think, feared, I'm ſure I fear'd, that his peoples <hi>Obduracy</hi> made him more willing than God approved. Think not this unworthy to be thought on.</p>
+            <p>But go ye, <hi>My Deareſt Friends,</hi> go I beſeech you to God, beſeech him that neither the <hi>Doctrine,</hi> the <hi>Life,</hi> nor the <hi>Death</hi> of this bleſſed Star now in Glory, may riſe up in Judgment againſt you! Cry mightily to God, to fill you with the fruits of righteouſneſs, to give you ſuch <hi>fore-taſts</hi> of Glory, as may enamour you of Heaven, and ſet you craving for that Day, which ye <hi>Prophane</hi> and ye <hi>Hypocrites</hi> too, [as cloſe as they hide it from themſelves and others] do wiſh would never be: Pray to be enabled to Pray, yea to be made unable to forbear Praying, <hi>Come Lord Jeſus, come quickly!</hi> I need not tell you, (I think I need not,) that 1. come he will, and quickly too, whe<g ref="char:EOLhyphen"/>ther you will or no: And that 2. when he comes, you will ſee the <hi>Wrath of
+<pb n="32" facs="tcp:42434:22"/>the Lamb</hi> to be intolerable, (<hi>Rev.</hi> 6.16, 17.) and his anger, though he be the <hi>Lamb</hi> of God, to be unavoidably deſtructive, (<hi>Pſal.</hi> 2.12.) Gods chara<g ref="char:EOLhyphen"/>cter of him being infinitely true, that which I pray you conſult, <hi>Exod.</hi> 22.21. <hi>Jeſuits</hi> and <hi>Socinians</hi> would have an Angel created on purpoſe to keep out the <hi>Bleſſed Jeſus</hi> from being meant in that Text. But he is ſo very <hi>plainly</hi> un<g ref="char:EOLhyphen"/>derſtood there, that beſides all our ſound <hi>commentators,</hi> the <hi>Hebrew Rab<g ref="char:EOLhyphen"/>bins</hi> ſay, 'tis meant of the <hi>Angel-Re<g ref="char:EOLhyphen"/>deemer,</hi> the <hi>Meſſiah.</hi> So <hi>Ainſworth</hi> from Rabbi <hi>Menahem,</hi> and he from the ancient <hi>Rabbins.</hi> Hear it then, <hi>He will not let your ſins go unpuniſh'd, for my Name is in him:</hi> that is, he will be as ſevere as I am, ſaith God the Fa<g ref="char:EOLhyphen"/>ther; for, he hath juſt my Nature, Ju<g ref="char:EOLhyphen"/>ſtice, <hi>&amp;c.</hi> and is no other than what I am. Neither are you to learn now I hope, 3. that Chriſt's <hi>coming</hi> will bring with it enough and enough, to quit the coſt, defray all the charge,
+<pb n="33" facs="tcp:42434:22"/>and make good amends for all loſſes and labours ſpent in waiting and cra<g ref="char:EOLhyphen"/>ving for it, even a bottomleſs depth and deareſt confluence of all Delights. Delights, [oh <hi>Amazement,</hi> where art thou?] Delights in 1. glorious ſight of God, his <hi>Face, Eſſence, Will, Coun<g ref="char:EOLhyphen"/>ſels, Perfections!</hi> and 2. in Bleſſed filledneſs with the <hi>fulneſs of God;</hi> e<g ref="char:EOLhyphen"/>ven through <hi>Jeſus,</hi> by his Humane Na<g ref="char:EOLhyphen"/>ture uniting us to God, and through his Divine Nature uniting God unto us; and ſo making us (in a manner un<g ref="char:EOLhyphen"/>utterable) <hi>Partakers and Poſſeſſors of God himſelf.</hi> The devout <hi>Ancients</hi> have ſoared high. Our <hi>Modern Di<g ref="char:EOLhyphen"/>vines</hi> ſpeak the words I put my mind in One of great ſame, hath ventur'd to ſay, that in Heaven, <q>We may conceive an unexpreſſible Aſſociati<g ref="char:EOLhyphen"/>on (which is too far off,) an Aſtimi<g ref="char:EOLhyphen"/>lation (which is not near enough,) the Schools would venture to ſay an Identification with God: And thus he proceeds; As the Sun by ſhining
+<pb n="34" facs="tcp:42434:23"/>on the Moon, makes it a Planet and Star as well as it ſelf, though it would otherwiſe be but the thickeſt and darkeſt part of the Sphere; ſo thoſe beams of Glory which ſhall iſſue from my God, and fall upon me, ſhall make me that am other<g ref="char:EOLhyphen"/>wiſe a clod of earth and worſe, a dark ſoul, a ſpirit of darkneſs, to become an Angel of light, a Star of glory, a ſomething that I cannot name now, nor imagin now, nor to morrow nor next year. —I ſhall be ſo like God that the Devil him<g ref="char:EOLhyphen"/>ſelf ſhall not know me from God, ſo as to find any more place to faſten a Temptation on me, than on God himſelf, nor to conceive any more hope of my falling from that King<g ref="char:EOLhyphen"/>dom, than of Gods being driven out of it.</q> (Dr. <hi>Jo. Donne</hi> in 2. <hi>Ser.</hi> on <hi>Gen.</hi> 1.26.) To conclude, I truſt, ye need not that I ſtand to tell you, 4. that <hi>Chriſt Jeſus</hi> doth heartily long for Saints coming to Heaven to him,
+<pb n="35" facs="tcp:42434:23"/>their ſpeedy coming; and his longing is fervent and conſtant. (See Dr. <hi>Tho. Goodwin</hi>'s little Treatiſe, called the <hi>Heart of Chriſt in Heaven,</hi> p. 49, &amp;c.) And what eye is that which ſees not, how <hi>helliſh</hi> ungratitude 'twould be in them, either <hi>not</hi> to deſire, or but <hi>coldly</hi> to deſire <hi>Christs</hi> coming to them. Oh Brethren, who will be the gainers? <hi>Can a man be profitable to God?</hi> No, No, not God: man. Chriſt by the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> hath told God, no. <hi>My goodneſs</hi> (ſaith he to the Father) <hi>extendeth not unto thee, but unto the Saints,</hi> Pſal. 16.2, 3. 'Tis <hi>Jeſus</hi> his goodneſs to Saints, not Saints that extendeth to him. Have done, have done <hi>then</hi> with this world, wherein, ſometimes in <hi>Poverty</hi> you will be wanting <hi>other creatures;</hi> ſometimes (it may be) in <hi>baniſhment,</hi> wanting <hi>other men;</hi> ſometimes in <hi>ſickneſs</hi> wanting your own <hi>Bodies;</hi> ſometimes in <hi>Impatience</hi> wanting your <hi>Souls,</hi> &amp; always (as long you are) in <hi>Sin</hi> wanting <hi>your God.</hi> Live by Faith, Watch &amp; wait in hope. Keep an open ear to <hi>Jeſus</hi> proclaiming his rea<g ref="char:EOLhyphen"/>dineſs
+<pb n="36" facs="tcp:42434:24"/>to come. And thereto let your daily <hi>Antiphonie</hi> and return be, <hi>Amen, come Lord Jeſu, come quickly.</hi>
+            </p>
+            <p>Upon <hi>Prov.</hi> 10.7. one of the <hi>Hebrew Doctors</hi> is reported to have thus gloſ<g ref="char:EOLhyphen"/>ſed; <q>Whoſoever makes mention ei<g ref="char:EOLhyphen"/>ther of a juſt man and bleſſeth him not; or of an unjuſt man, and cur<g ref="char:EOLhyphen"/>ſeth him not, violates an affirmative Law.</q> If ſo it indeed be, I know what we have to do, as oft as we name a <hi>Rabbin.</hi> But the very truth is, we ſhould break I think many of the Laws of God, (written in our own hearts, and in the bleſſed <hi>Bible</hi>) if we ſhould either make no mention, or no honourable mention, or not bleſs the <hi>Memory</hi> of this holy Embaſſador of <hi>Chriſt,</hi> whoſe <hi>Deceaſe</hi> is the providen<g ref="char:EOLhyphen"/>tial occaſion of this Diſcourſe this day. Much need not be ſaid of him, becauſe more is known than can (in our <hi>limi<g ref="char:EOLhyphen"/>ted</hi> Diſcourſe) be ſaid. And though it excuſe not our duty, (as a <hi>Landlords</hi> having mony enough beſides, excuſeth
+<pb n="37" facs="tcp:42434:24"/>not a <hi>Tenant</hi> for not paying his rent) yet it pleaſeth us to conſider, that his <hi>Life</hi> and <hi>Labours</hi> have found him very ſufficient <hi>Praiſe</hi> in the Church of Chriſt. And that which we utter in his Praiſe, is but jointly to <hi>pay duty</hi> to his juſtly bleſt memory, and <hi>learn duty</hi> from his excellent Example. Where<g ref="char:EOLhyphen"/>fore all I ſhall offer concerning him, I ſhall put into theſe few particulars.</p>
+            <p>Firſt, His Parts and <hi>Endowments,</hi> (Natural and Acquired) were not or<g ref="char:EOLhyphen"/>dinary, but <hi>excelling;</hi> as the Judici<g ref="char:EOLhyphen"/>ous and Learned of his Acquaintance atteſt. He had wherewithal to capti<g ref="char:EOLhyphen"/>vate and charm, and <hi>edifie</hi> the loweſt underſtandings, and the while to <hi>ſatis<g ref="char:EOLhyphen"/>fie</hi> and <hi>delight</hi> the higheſt. A faculty not beſtown on every, even of learned and godly Divines, and of juſtly conſi<g ref="char:EOLhyphen"/>derable Repute in the Church of God. I ſay nothing of his <hi>Parentage.</hi> What <hi>Honour</hi> is any Birth but the <hi>New Birth?</hi> the Birth from that <hi>Heaven,</hi> whence he was <hi>Born,</hi> and whither he is (as to his
+<pb n="38" facs="tcp:42434:25"/>
+               <hi>native</hi> place) return'd. 'Tis known ſome <hi>Western</hi> Counties over, that he had a <hi>Father</hi> of whom he might juſtly (in a ſenſe) <hi>Glory; (Prov.</hi> 17.6.) and to whom he was equally a <hi>Delight</hi> and <hi>Honour,</hi> Prov. 23.24, 25. <hi>The Father of the Righteous ſhall greatly rejoyce,</hi> &amp;c.</p>
+            <p>Secondly, His <hi>Graces,</hi> in the eyes of the moſt ſpiritually diſcerning Chri<g ref="char:EOLhyphen"/>ſtians, were both <hi>True</hi> and <hi>great.</hi> Ex<g ref="char:EOLhyphen"/>cept but his <hi>humble</hi> ſelf, I challenge all that read me, to name that compe<g ref="char:EOLhyphen"/>tent judg of him, who ever thought him either <hi>no</hi> Saint, or <hi>no Excelling</hi> one? His dear <hi>Yokefellow</hi> tells me, that ſhe was inform'd by himſelf, that's <hi>Converſion</hi> was wrought in <hi>Oxford.</hi> Bleſſed Soul! to whom the <hi>Holy Ghoſt</hi> (the <hi>Author</hi> and ſpecial <hi>In-worker</hi> of all <hi>Gifts,</hi> (1 <hi>Cor.</hi> 12.) gave <hi>Art</hi> and <hi>Grace, Divine</hi> and <hi>Humane</hi> Learning, in the ſame place! The <hi>Vigilant Maſters</hi> of the Literate <hi>Societies</hi> there, do <hi>ſad<g ref="char:EOLhyphen"/>ly</hi> know, how very many come away
+<pb n="39" facs="tcp:42434:25"/>from them, without bringing either <hi>Sarah</hi> or <hi>Hagar, Grace</hi> (I mean) or <hi>Learning</hi> with them; and how many more that get the Handmaid of <hi>Philo<g ref="char:EOLhyphen"/>ſophy,</hi> obtain not more than the Sha<g ref="char:EOLhyphen"/>dow or Shape of the Miſtreſs, <hi>Divinity!</hi> Thrice-Bleſſed, our <hi>dear Brother!</hi> to whom <hi>Free Grace</hi> vouchſafed Capaci<g ref="char:EOLhyphen"/>tating <hi>Nature,</hi> Poliſhing <hi>Art,</hi> and Ac<g ref="char:EOLhyphen"/>compliſhing <hi>Grace,</hi> now it ſelf Accom<g ref="char:EOLhyphen"/>pliſhed in <hi>Glory.</hi>
+            </p>
+            <p>Thirdly, His Miniſterial <hi>Labors,</hi> and <hi>Painfulneſs</hi> in the Lord's work, were extraordinary. He did not only, more than <hi>others do</hi> Do, but more than <hi>he himſelf could</hi> Do, with his health conſulted for. The Devil knows to <hi>his</hi> wo, how unweariedly he labour'd to get Souls out of <hi>his</hi> hands; (and how many he <hi>got</hi> too.) No doubt but the hundreds made partakers of his Pains, give the Lord thouſands and ten-thouſands of Praiſes with <hi>thanksgiving</hi> for them. <hi>Lions in the way</hi> of duty, ſeem'd no <hi>Lions</hi>
+               <pb n="40" facs="tcp:42434:26"/>to him. Though <hi>wiſely Zealous,</hi> he was <hi>daringly</hi> Good; I had almoſt ſaid, <hi>Deſperately.</hi> For even <hi>then</hi> would he Labour, when he had <hi>no hope</hi> of a<g ref="char:EOLhyphen"/>voiding the weakning conſequents of it to his feeble <hi>Conſumptive</hi> body. Oh that they were not able to forbear <hi>Imitating</hi> his <hi>holy</hi> induſtry, who will not be able to forbear <hi>Praiſing</hi> it! Ay, and (it may be) <hi>coveting</hi> the Praiſe of it too.</p>
+            <p>Now to you, <hi>my Brethren,</hi> to whom his painfulneſs was ſo well known, by you <hi>(of any Souls)</hi> let it not be <hi>un<g ref="char:EOLhyphen"/>imitated!</hi> God, my God, perſwade you to be ſuch, as he perſwaded you to be; and to Labour in the Word and <hi>Practice</hi> of it, as he laboured in the Word, and <hi>Doctrine,</hi> and <hi>joynt-practice</hi> of it. Let not his <hi>Counſels</hi> or <hi>Example</hi> dye with him! The <hi>Jews</hi> have a ſaying, that <hi>No day hath in it any ſo good a Man dying, but it hath as good a one born on it.</hi> I pray God, it may prove true of the day of our Bleſſed
+<pb n="41" facs="tcp:42434:26"/>
+               <hi>Brother</hi>'s death. Recall, recall, <hi>I charge you before God and the elect Angels,</hi> recall his heavenly Inſtructions! Beg, beg on bended knees, the <hi>Holy Ghoſt</hi> to bring to your Remembrance thoſe Teachings that he ſent you by him! Shall I give you ſome particular <hi>Hints,</hi> which the Lord's good Providence hath enabled me to do, by a ſight of ſome <hi>Notes</hi> kindly communicated by his <hi>Widow:</hi> hear, I beſeech you, and with <hi>Solemn</hi> attentiveneſs!</p>
+            <p n="1">1. Excellently he taught you, the <hi>Vanity</hi> and <hi>Nothingneſs</hi> and <hi>leſs</hi> than nothing of all that can be taught, be<g ref="char:EOLhyphen"/>ſides the knowledg of <hi>Jeſus.</hi> Not (to uſe his own words,) the <hi>Carnal,</hi> the <hi>Hiſtorical,</hi> or <hi>General</hi> knowledg of <hi>Chriſt:</hi> but the <hi>ſpiritual, particular, heart</hi> and <hi>Life-reforming,</hi> and <hi>trans<g ref="char:EOLhyphen"/>forming</hi> knowledg. He ſhew'd you 'twas in <hi>Jeſus</hi> that all the <hi>Attributes</hi> of God did Shine! that 'twas to <hi>Jeſus</hi> all the <hi>Types, Ceremonies, Legal waſh<g ref="char:EOLhyphen"/>ings,</hi> &amp;c. of old, and all the <hi>Prophe<g ref="char:EOLhyphen"/>cies,</hi>
+               <pb n="42" facs="tcp:42434:27"/>and <hi>Promiſes</hi> ever given of God, pointed! that <hi>Life-eternal</hi> in the <hi>End,</hi> the excellent <hi>End,</hi> whereof knowledg of <hi>Chriſt</hi> is the excellent and only <hi>means!</hi> that this knowledg of <hi>Chriſt</hi> is, 1. <hi>Revealed,</hi> 2. <hi>Certain,</hi> and 3. <hi>Sweet,</hi> Savory knowledg. He <hi>rows'd</hi> you to the Trial, by <hi>heart-ſearch,</hi> whether you had this knowledg: And directed you to try, by a Conſideracy of the <hi>Cauſes</hi> and <hi>Effects:</hi> All this from that text, 1. <hi>Cor.</hi> 2.2.</p>
+            <p n="2">2dly, He ſhew'd you likewiſe, what you <hi>are</hi> till you come to the foreſaid knowledg of <hi>Chriſt.</hi> Even, <hi>Children of wrath,</hi> and <hi>Alienated,</hi> and <hi>Enemies to God in your minds by wicked works;</hi> both from <hi>Epheſ.</hi> 2.3. and <hi>Col.</hi> 1.2. He told you, and proved, that you and all the world (no man, ſave <hi>God-man</hi> excepted) are by <hi>Na<g ref="char:EOLhyphen"/>tural Propagation ſinful:</hi> Sinful (not by <hi>imitation</hi> only, though very much; but) 1. <hi>by nature;</hi> and 2. <hi>univerſally;</hi> all men, and in all of man. He ſhew'd
+<pb n="43" facs="tcp:42434:27"/>how 1. <hi>Fruitful</hi> of ſin and miſery this ſin of Nature is! How 2. <hi>Powerful;</hi> it ſelf a <hi>Law (Rom</hi> 7.23.) and mak<g ref="char:EOLhyphen"/>ing your Souls <hi>Lawleſs.</hi> 3. How <hi>Fierce</hi> and Furious! 4. How <hi>
+                  <g ref="char:V">Ʋ</g>navoidable!</hi> 5. How (yet) <hi>Voluntary!</hi> Inherent in the <hi>Will,</hi> and making men <hi>Wilfully</hi> to ſell <hi>themſelves</hi> to ſin and <hi>Satan.</hi> He made it plain to you, that unſanctified men are <hi>Gods Enemies, Haters of God;</hi> as 'tis <hi>Rom.</hi> 1.30. They Enemies to God, and God an Enemy to them. He ſhew'd you wherein mens Enmity to God appeareth: In their Oppoſi<g ref="char:EOLhyphen"/>tion to his <hi>Will!</hi> 2. Their hatred and Oppoſition to his <hi>Saints</hi> and <hi>Servants,</hi> and <hi>Friends!</hi> 3 And their Friend<g ref="char:EOLhyphen"/>ſhip with Gods Enemies; to wit, <hi>Devil, World</hi> and <hi>Sin.</hi> Alſo, 1. How <hi>unrea<g ref="char:EOLhyphen"/>ſonable</hi> this Enmity is; how, 2. <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>profitable;</hi> and 3. how <hi>Deſtructive.</hi>
+            </p>
+            <p n="3">3dly, He ſet forth the bleſſed Doctrine <hi>(the Soul of the Goſpel,)</hi> of <hi>Chriſts</hi> being <hi>Peace-maker</hi> 'twixt God and Man. And that, 1. by <hi>Perchaſe,</hi>
+               <pb n="44" facs="tcp:42434:28"/>bearing the Chaſtiſement of our Peace: (as <hi>Iſai.</hi> 53.) 2. by the <hi>Tendring of pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chaſed Peace</hi> to poor Souls; and 3. by <hi>Conquering the Enmity</hi> of the heart, and making Souls <hi>willing</hi> to be Recon<g ref="char:EOLhyphen"/>ciled to God.</p>
+            <p n="4">4ly. Incitingly and Invitingly, to your Reconciliation unto God, he ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew'd you, 1. That <hi>Reconciliation</hi> unto God, is a <hi>mercy highly to be valued,</hi> much to be <hi>deſired,</hi> and <hi>endeavoured</hi> after: And 2. that taking hold of God <hi>in Chriſt</hi> is the <hi>only</hi> and <hi>certain</hi> means of Reconciliation with God. And 3. to ſuch laying hold on God are re<g ref="char:EOLhyphen"/>quired, 1. Conviction of the unable<g ref="char:EOLhyphen"/>neſs of <hi>all</hi> beſide <hi>Jeſus,</hi> to ſatisfie Gods <hi>Juſtice.</hi> 2. Senſe of your inability to <hi>ſave</hi> your ſelves, and to <hi>lay</hi> hold on <hi>Chriſt</hi> offered. 3. Faith of Chriſt's <hi>All<g ref="char:EOLhyphen"/>ſufficiency.</hi> 5. Letting go of your hold of <hi>all</hi> other things, which may hinder reſting on him. 6. <hi>Speedy</hi> laying hold on him, as offered in the Goſpel: and 7. Union with him, <hi>Spiritual</hi> Union by
+<pb n="45" facs="tcp:42434:28"/>Faith. He told you, you had 1. Gods <hi>word,</hi> yea, 2. Gods <hi>Oath</hi> for your peace on theſe terms: This, on <hi>Iſai.</hi> 27.5.</p>
+            <p n="5">5ly. Hereupon God directed him to tell you, that (as he made it his work) <hi>it is the work of Miniſters, to perſwade ſinners to accept of Chriſt as their Husband.</hi> And that, whereas unto Marriage there's requir'd, Conſent of <hi>Parents</hi> and conſent of <hi>Parties;</hi> God, the only <hi>Parents</hi> willing, <hi>Chriſt,</hi> the one <hi>Partie's</hi> willing; the <hi>query</hi> is, whether the <hi>Sinner</hi> be willing. He told you, you muſt conſent, 1. <hi>
+                  <g ref="char:V">Ʋ</g>nderſtandingly,</hi> 2. <hi>Freely,</hi> 3. <hi>Preſently,</hi> 4. <hi>
+                  <g ref="char:V">Ʋ</g>niverſally</hi> and <hi>Perpetually.</hi> And come unto a 1. <hi>Real,</hi> a 2. <hi>Spiritual,</hi> and 3. <hi>Total</hi> Union with <hi>Jeſus;</hi> and 4. an <hi>Indiſſoluble</hi> one; one never to be broke off, by any threat<g ref="char:EOLhyphen"/>ning or bribing Temptation.</p>
+            <p>To Conclude; he further ſhewed you, <hi>Chriſt</hi> is the <hi>only way</hi> to <hi>Juſtifica<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Sanctification</hi> and <hi>Glory:</hi> and excellently diſplaid before you, how <hi>altogether Lovely</hi> (his <hi>beloved,</hi> now
+<pb n="46" facs="tcp:42434:29"/>
+               <hi>fully enjoyed) Jeſus</hi> is. Of the which (though I can <hi>Hint</hi> no more) I pray God bring much more to your <hi>Remem<g ref="char:EOLhyphen"/>brance, Conſideration, Practice,</hi> and <hi>Delight.</hi>
+            </p>
+            <p>I am moſt certain, if the good <hi>Spirit of Grace</hi> ſhall <hi>Powerfully</hi> ſet home theſe <hi>Inſtructions</hi> and <hi>Counſels,</hi> Dead hearts among you ſhall <hi>live;</hi> and they that have ſpiritual Life, ſhall <hi>have it more abundantly;</hi> and the <hi>Jewiſh</hi> maxim a<g ref="char:EOLhyphen"/>foreſaid, will be <hi>veriſied,</hi> and more, even <hi>exceeded.</hi> Not <hi>one</hi> only, but <hi>many,</hi> ſhall be <hi>born to God,</hi> and made to <hi>en<g ref="char:EOLhyphen"/>creaſe with the encreaſes of God,</hi> and fitted (as our <hi>Bleſſed Dear Brother</hi>) for an <hi>entrance into the Kingdom of God.</hi> Amen, and Amen</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42434:29"/>
+         </div>
+      </body>
+   </text>
+</TEI>
